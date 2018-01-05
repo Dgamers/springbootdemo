@@ -394,3 +394,8 @@
 2018-01-03 20:40:38,280 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
 2018-01-03 20:40:45,832 INFO (StartupInfoLogger.java:57)- Started Application in 8.017 seconds (JVM running for 8.809)
 2018-01-03 20:40:55,391 DEBUG (HelloController.java:24)- ����hello
+2018-01-03 20:49:21,335 INFO (StartupInfoLogger.java:48)- Starting Application on LBDZ-20140720TM with PID 11520 (D:\workspace\bootdemo\bootdemo\target\classes started by Administrator in D:\workspace\bootdemo\bootdemo)
+2018-01-03 20:49:21,351 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-03 20:49:21,351 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-03 20:49:28,511 INFO (StartupInfoLogger.java:57)- Started Application in 7.649 seconds (JVM running for 8.707)
+2018-01-03 20:49:34,968 DEBUG (HelloController.java:24)- ����hello
